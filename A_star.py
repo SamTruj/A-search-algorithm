@@ -1,5 +1,6 @@
 """Samara Trujillo
 created: August 17, 2019"""
+#Hello sammy
 mapXY =[]
 map =[]
 current =[]
